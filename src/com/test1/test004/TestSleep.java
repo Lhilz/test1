@@ -1,6 +1,11 @@
 package com.test1.test004;
 
-
+/**
+ * @program: Dome00001
+ * @description:
+ * @author: Mr.Lh
+ * @create: 2021-05-23 17:57
+ **/
 public class TestSleep  implements Runnable{
 
     private  int  ticketNum=10;
